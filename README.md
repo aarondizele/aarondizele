@@ -5,7 +5,7 @@
 - 🎓   Software Engineer and Fullstack Developer
 - 💼   Tech-Congo 🔥 | Elite Law Firm, SCP
 
-#### 🛠 Tech Stacks
+#### 💻 Tech Stacks
 
 - **Programming Languages** : C# | Python | Javascript | Typescript | Dart | PHP | SQL
 - **Web** : Vue 3/2 | React JS | Next.js | Nuxt.js | Wordpress | Bootstrap | TailwindCSS
