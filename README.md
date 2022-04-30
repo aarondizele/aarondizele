@@ -1,5 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inter&size=16&duration=7000&color=081C24&lines=I'm+Aaron-Laxis+Dizele;Software+Engineer+and+Fullstack+Developer;I+used+to+code+with+various+programming+languages;+such+Python%2C+Typescript%2C+C%23%2C+Dart%2C+Javascript%2C+PHP;Mobile+Apps%3A+Flutter%2C+React+Native;Web+Apps%3A+Vue+3%2C+React+JS;Backend%3A+Firebase%2C+Node.js%2C+FastAPI%2C+Laravel%2C+ASP.net;and+many+other+frameworks)](https://git.io/typing-svg)
-### I'm Aaron-Laxis Dizele, Software Engineer and Full-stack Developer
+## Aaron-laxis Dizele
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inter&duration=7000&color=833C9F&center=true&lines=Welcome+to+my+Github+Profile%F0%9F%A4%A9)](https://git.io/typing-svg)
+
+- 🎓   Software Engineer and Fullstack Developer
+- 💼   Tech-Congo 🔥 | Elite Law Firm, SCP
 
 ##### Tech Stacks
 
