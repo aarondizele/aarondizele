@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inter&duration=7000&color=833C9F&center=true&lines=Welcome+to+my+Github+Profile%F0%9F%A4%A9)](https://git.io/typing-svg)
 
-- 🎓   Software Engineer and Fullstack Developer
-- 💼   Tech-Congo 🔥 | Elite Law Firm, SCP
+- 🛠 Software Engineer and Fullstack Developer
+- 💼 Tech-Congo 🔥 | Elite Law Firm, SCP
+- 🎓 Ukta State Technical University, Russia
 
 #### 💻 Tech Stacks
 
