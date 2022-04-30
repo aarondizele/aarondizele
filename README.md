@@ -4,7 +4,7 @@
 
 - 🛠 Software Engineer and Fullstack Developer
 - 💼 Tech-Congo 🔥 | Elite Law Firm, SCP
-- 🎓 Ukta State Technical University, Russia | 
+- 🎓 Ukta State Technical University, Russia
 
 #### 💻 Tech Stacks
 
