@@ -14,5 +14,5 @@
 - **Backend** : Node.js - Express | FastAPI | Firebase | Laravel | ASP.net
 - **Database** : Firebase Firestore | PostgreSQL | MongoDB | Redis Database | MySQL
 - **Tools** : Trello | Git | GitHub | Gitlab
-- **DevOps** : Linux | Docker | Kubernetes | AWS | GCP | Linode
-- **Graphic Design** : Illustrator | Photoshop
+- **DevOps** : Linux | Docker | Kubernetes | AWS | GCP | Linode | Apache | Nginx
+- **Graphic Design** : Illustrator | Photoshop | InDesign
