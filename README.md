@@ -11,8 +11,9 @@
 - **Programming Languages** : C# | Python | Javascript | Typescript | Dart | PHP | SQL
 - **Web** : Vue 3/2 | React JS | Next.js | Nuxt.js | Wordpress | Bootstrap | TailwindCSS
 - **Mobile** : Flutter | React Native
-- **Backend** : Node.js - Express | FastAPI | Firebase | Laravel | ASP.net
-- **Database** : Firebase Firestore | PostgreSQL | MongoDB | Redis Database | MySQL
+- **Backend** : Node.js - Express | FastAPI | Firebase | Laravel | ASP.net | Django
+- **Database** : Firebase Firestore | PostgreSQL | MongoDB | Redis Database | MS Server | MySQL
+- **Full-text Search** : Elastic Search | Algolia | Typesense
 - **Tools** : Trello | Git | GitHub | Gitlab
 - **DevOps** : Linux | Docker | Kubernetes | AWS | GCP | Linode | Apache | Nginx
 - **Graphic Design** : Illustrator | Photoshop | InDesign
