@@ -8,12 +8,10 @@
 
 ### 💻 Tech Stacks
 
-- **Programming Languages** : C# | Python | Javascript | Typescript | Dart | PHP | SQL
-- **Web** : Vue 3/2 | React JS | Next.js | Nuxt.js | Wordpress | Bootstrap | TailwindCSS
+- **Programming Languages** : Python | Javascript | Typescript | Dart
+- **Web** : VueJS | React JS | Next.js | Nuxt.js | Bootstrap | TailwindCSS
 - **Mobile** : Flutter | React Native
-- **Backend** : Node.js - Express | FastAPI | Firebase | Laravel | ASP.net | Django
-- **Database** : Firebase Firestore | PostgreSQL | MongoDB | Redis Database | MS Server | MySQL
-- **Full-text Search** : Elastic Search | Algolia | Typesense
+- **Backend** : Node.js - Express | FastAPI | Django | Firebase
+- **Database** : Firebase Firestore | PostgreSQL | MongoDB
 - **Tools** : Trello | Git | GitHub | Gitlab
 - **DevOps** : Linux | Docker | Kubernetes | AWS | GCP | Linode | Apache | Nginx
-- **Graphic Design** : Illustrator | Photoshop | InDesign
